@@ -1,2 +1,2 @@
 # al
-A placeholder for my website and Bluesky handle.
+Redirects to https://al.merose.com to https://alex.merose.com.
